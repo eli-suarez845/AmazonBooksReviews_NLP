@@ -1,6 +1,6 @@
 # AmazonBooksReviews_NLP
 
-Data Science III Final proyect - 2025
+Data Science III Final project - 2025
 Abstract
 
 Motivation: To make a first approach to Deep Learning, by means of Natural Language Processing and Neural Networks.
